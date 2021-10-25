@@ -11,7 +11,7 @@ About me
   - linkedin: https://www.linkedin.com/in/jubel-sinaga/
 
 <div align='center'><a href="https://github.com/Jubel13/CSS-Project-Udemy">
-  <img align="center" src="https://github.com/Jubel13/Jubel13/blob/main/github/CSS-project.PNG" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
