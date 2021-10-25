@@ -54,14 +54,17 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>
 <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img alt="GitHub" width="40px" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" />
    </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jubel13)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jubel13)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Jubel13&theme=radical&show_icons=true" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubel13&layout=compact&theme=radical" width="400" />
+</p>
 
-
+---
 
 
 
