@@ -25,7 +25,7 @@
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=React-redux&theme=tokyonight" />
 </a>
 <a href="https://github.com/Jubel13/React-NextJs-Project">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=NextJs-Project&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=React-NextJs-Project&theme=tokyonight" />
 </a>
 </p>
 
