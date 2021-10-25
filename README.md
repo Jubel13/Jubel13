@@ -1,5 +1,5 @@
 <h1 align='center'>Hi There, I am Jubel Sinaga </h1>
-https://img.shields.io/twitter/url?label=linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjubel-sinaga%2F
+[![Twitter](https://img.shields.io/twitter/url?label=linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjubel-sinaga%2F)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjubel-sinaga%2F)
 
 
 About me
