@@ -10,8 +10,8 @@ About me
 - 📫 How to reach me: 
   - linkedin: https://www.linkedin.com/in/jubel-sinaga/
 
-<div align='center'><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<div align='center'><a href="https://github.com/Jubel13/CSS-Project-Udemy">
+  <img align="center" src="https://github.com/Jubel13/Jubel13/blob/main/github/CSS-project.PNG" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
