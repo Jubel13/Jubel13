@@ -1,6 +1,6 @@
 <h1 align='center'>Hi There, I am Jubel Sinaga </h1>
 
-Enthusiastic developer with skills in Javascript, React JS, HTML, and CSS
+<p align='center'>Enthusiastic developer with skills in Javascript, React JS, HTML, and CSS</p>
 
 About me
 
