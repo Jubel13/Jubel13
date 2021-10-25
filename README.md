@@ -7,6 +7,30 @@
 
 <p align='center'>Enthusiastic developer with skills in Javascript, React JS, HTML, and CSS</p>
 
+<h2 align="center">My sample projects 💻</h2>
+<br />
+
+<p align="center">
+  <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/github/CSS-project.PNG" />
+  <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
+ <a href="https://github.com/Jubel13/CSS-Project-Udemy">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=sos-animals&theme=tokyonight" />
+</a>
+  <a href="https://github.com/YuriDevAT/smart-shopping-list">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
+</a>
+  <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
+  <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
+  <a href="https://github.com/YuriDevAT/nikki-my-diary">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
+</a>
+<a href="https://github.com/YuriDevAT/instagram-clone">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
+</a>
+</p>
+
+<br />
+
 About me
 
 - 👋 Hi, I’m Jubel Van Kristo Sinaga
