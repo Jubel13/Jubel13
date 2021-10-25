@@ -14,7 +14,7 @@
   <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/github/CSS-project.PNG" />
   <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
  <a href="https://github.com/Jubel13/CSS-Project-Udemy">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=sos-animals&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=CSS-Project-Udemy&theme=tokyonight" />
 </a>
   <a href="https://github.com/YuriDevAT/smart-shopping-list">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
