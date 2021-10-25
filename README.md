@@ -1,8 +1,5 @@
 <h1 align='center'>Hi There, I am Jubel Sinaga </h1>
 
-<p align=”center”><a href=”https://www.linkedin.com/in/jubel-sinaga/”><img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a></p>
-
-
 About me
 
 - 👋 Hi, I’m Jubel Van Kristo Sinaga
