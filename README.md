@@ -1,3 +1,5 @@
+About me
+
 - 👋 Hi, I’m Jubel Van Kristo Sinaga
 - 👀 I’m interested in programming and web development
 - 🌱 I’m currently learning React JS and web development
