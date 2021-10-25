@@ -1,5 +1,7 @@
 <h1 align='center'>Hi There, I am Jubel Sinaga </h1>
 
+Enthusiastic developer with skills in Javascript, React JS, HTML, and CSS
+
 About me
 
 - 👋 Hi, I’m Jubel Van Kristo Sinaga
