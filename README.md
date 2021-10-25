@@ -19,13 +19,13 @@
   <a href="https://github.com/Jubel13/Authentication">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=Authentication&theme=tokyonight" />
 </a>
-  <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
-  <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
-  <a href="https://github.com/YuriDevAT/nikki-my-diary">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
+  <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/github/Redux.PNG" />
+  <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/github/meetup.PNG" />
+  <a href="https://github.com/Jubel13/React-redux">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=React-redux&theme=tokyonight" />
 </a>
-<a href="https://github.com/YuriDevAT/instagram-clone">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
+<a href="https://github.com/Jubel13/React-NextJs-Project">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=NextJs-Project&theme=tokyonight" />
 </a>
 </p>
 
