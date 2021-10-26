@@ -3,7 +3,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/jubel-sinaga/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
-<br />
 
 <p align='center'>Enthusiastic developer with skills in Javascript, React JS, HTML, and CSS</p>
 
