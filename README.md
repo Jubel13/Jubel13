@@ -14,18 +14,18 @@
   <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/CSS-project.PNG" />
   <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/Secret.PNG" />
  <a href="https://github.com/Jubel13/CSS-Project-Udemy">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=CSS-Project-Udemy&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=CSS-Project-Udemy&theme=radical" />
 </a>
   <a href="https://github.com/Jubel13/Authentication">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=Authentication&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=Authentication&theme=radical" />
 </a>
   <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/Redux.PNG" />
   <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/meetup.PNG" />
   <a href="https://github.com/Jubel13/React-redux">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=React-redux&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=React-redux&theme=radical" />
 </a>
 <a href="https://github.com/Jubel13/React-NextJs-Project">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=React-NextJs-Project&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=React-NextJs-Project&theme=radical" />
 </a>
 </p>
 
