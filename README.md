@@ -34,7 +34,7 @@
 <h2 align="center">About me</h2>
 
 <br />
-<p>I am self-taught developer who loves to learn programming. I was graduated from Atma Jaya Yogyakarta University with bachelor degree on Industrial engineering major.</p>
+<p>I am self-taught developer who loves to learn programming. I was graduated from Atma Jaya Yogyakarta University with bachelor degree in Industrial engineering major.</p>
 
 - 👋 Hi, I’m Jubel Van Kristo Sinaga
 - 👀 I’m interested in programming and web development
