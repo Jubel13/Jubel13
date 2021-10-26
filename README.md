@@ -7,6 +7,8 @@
 
 <p align='center'>Enthusiastic developer with skills in Javascript, React JS, HTML, and CSS</p>
 
+<br />
+
 <h2 align="center">My sample projects 💻</h2>
 <br />
 
