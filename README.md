@@ -16,9 +16,7 @@
  <a href="https://github.com/Jubel13/CSS-Project-Udemy">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=CSS-Project-Udemy&theme=radical" />
 </a>
-  <a href="https://github.com/Jubel13/Authentication">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=Authentication&theme=radical" />
-</a>
+  
   <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/Redux.PNG" />
   <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/meetup.PNG" />
   <a href="https://github.com/Jubel13/React-redux">
