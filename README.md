@@ -11,16 +11,16 @@
 <br />
 
 <p align="center">
-  <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/github/CSS-project.PNG" />
-  <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/github/Secret.PNG" />
+  <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/CSS-project.PNG" />
+  <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/Secret.PNG" />
  <a href="https://github.com/Jubel13/CSS-Project-Udemy">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=CSS-Project-Udemy&theme=tokyonight" />
 </a>
   <a href="https://github.com/Jubel13/Authentication">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=Authentication&theme=tokyonight" />
 </a>
-  <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/github/Redux.PNG" />
-  <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/github/meetup.PNG" />
+  <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/Redux.PNG" />
+  <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/meetup.PNG" />
   <a href="https://github.com/Jubel13/React-redux">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=React-redux&theme=tokyonight" />
 </a>
