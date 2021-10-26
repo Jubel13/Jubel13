@@ -60,7 +60,7 @@
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jubel13&hide=stars,issues&theme=radical&show_icons=true" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jubel13&hide=stars,contribs&theme=radical&show_icons=true" width="450"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubel13&layout=compact&theme=radical" width="400" />
 </p>
 
