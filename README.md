@@ -13,7 +13,7 @@
 
 <p align="center">
   <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/CSS-project.PNG" />
-  <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/gocademy.png" />
+  <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/Gocademy.png" />
  <a href="https://github.com/Jubel13/CSS-Project-Udemy">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=CSS-Project-Udemy&theme=radical" />
 </a>
