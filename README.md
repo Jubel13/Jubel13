@@ -20,10 +20,10 @@
   <a href="https://github.com/Jubel13/GOcademy-1">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=Gocademy-1&theme=radical" />
 </a>
-  <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/Redux.PNG" />
+  <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/diagnostool" />
   <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/meetup.PNG" />
-  <a href="https://github.com/Jubel13/React-redux">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=React-redux&theme=radical" />
+  <a href="https://github.com/Jubel13/p2-iproject-client">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=p2-iproject-client&theme=radical" />
 </a>
 <a href="https://github.com/Jubel13/React-NextJs-Project">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=React-NextJs-Project&theme=radical" />
