@@ -21,12 +21,12 @@
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=Gocademy-1&theme=radical" />
 </a>
   <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/diagnostool.png" />
-  <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/meetup.PNG" />
+  <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/Uniqlo-clone.png" />
   <a href="https://github.com/Jubel13/p2-iproject-client">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=p2-iproject-client&theme=radical" />
 </a>
-<a href="https://github.com/Jubel13/React-NextJs-Project">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=React-NextJs-Project&theme=radical" />
+<a href="https://react-showcase-hacktiv8.web.app/">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=p3-challenge-1&theme=radical" />
 </a>
 </p>
 
