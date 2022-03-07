@@ -26,7 +26,7 @@
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=p2-iproject-client&theme=radical" />
 </a>
 <a href="https://react-showcase-hacktiv8.web.app/">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=&theme=radical" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=Uniqlo-Clone&theme=radical" />
 </a>
 </p>
 
