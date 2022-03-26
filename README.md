@@ -12,13 +12,13 @@
 <br />
 
 <p align="center">
+  <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/AutoClassic.png" />
   <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/uniqlo-app-clone.png" />
-  <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/gocademy.png" />
- <a href="https://github.com/Jubel13/Uniqlo-app-clone">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=Uniqlo-app-clone&theme=radical" />
+  <a href="https://github.com/Jubel13/FinalProjectHacktiv8Client">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=FinalProjectHacktiv8Client&theme=radical" />
 </a>
-  <a href="https://github.com/Jubel13/GOcademy-1">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=Gocademy-1&theme=radical" />
+  <a href="https://github.com/Jubel13/Uniqlo-app-clone">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubel13&repo=Uniqlo-app-clone&theme=radical" />
 </a>
   <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/diagnostool.png" />
   <img width="400" src="https://github.com/Jubel13/Jubel13/blob/main/Uniqlo-clone.png" />
