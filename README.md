@@ -38,8 +38,8 @@
 <p>I am developer who loves to learn programming. I was graduated from Atma Jaya Yogyakarta University with bachelor degree in Industrial Engineering major.</p>
 
 - 👋 Hi, I’m Jubel Van Kristo Sinaga
-- 👀 I’m interested in programming and web development
-- 🌱 I’m currently learning React JS and web development
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Java and Java framework
 - 📫 How to reach me: 
   - linkedin: https://www.linkedin.com/in/jubel-sinaga/
 
